@@ -69,7 +69,7 @@ In Redux all these interactions are structured the same way. Every component we
 allow can get and update state data regardless of the position of components in
 a tree.
 
-#### Updating Our state.
+#### Updating Our State
 
 So we hold all of our data in one place and with some configuration, we can read
 it as props in regular React components. When we want to update that data, we
@@ -106,7 +106,7 @@ a plain JavaScript object. In fact, all the pieces of Redux are plain old
 JavaScript. It is the pattern, the way the information flows that makes Redux
 awesome.
 
-To change our application state, we need create an action that holds information
+To change our application state, we need to create an action that holds information
 for how to update that state. The action, combined with the previous state,
 produces an updated state.
 
