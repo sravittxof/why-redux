@@ -1,0 +1,6 @@
+---
+:lessons:
+- :id: 12500
+  :course_id: 358
+  :canvas_url: https://learning.flatironschool.com/courses/358/pages/why-redux
+  :type: page
